@@ -1,4 +1,4 @@
-# Mortgage Credit Risks and Prepayment Intelligence
+# Mortgage Credit Risks and Prepayment Monitoring
 
 This project studies real mortgage loan-level data to understand where portfolio risk is building up, which borrower segments are under more stress, how early those patterns show up and how the results can be delivered both to business users and downstream systems.
 
@@ -286,5 +286,5 @@ That combination is the main value of the project.
 
 ## Project links
 
-- GitHub repository : https://github.com/Bhavik-Patwa/Mortgage-Credit-Risks-and-Prepayment-Intelligence
+- GitHub repository : https://github.com/Bhavik-Patwa/Mortgage-Credit-Risks-and-Prepayment-Monitoring
 - Tableau Public dashboards : https://public.tableau.com/app/profile/bhavik.patwa/vizzes
